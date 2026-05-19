@@ -34,7 +34,9 @@ Os projetos avançados e atividades assíncronas foram desenvolvidos em reposit�
 ## 🛠️ Tecnologias Utilizadas
 
 - Python  
-- Scikit-learn  
+- Scikit-learn
+- Keras
+- Tensor-flow
 - Google Colab  
 - Git  
 - GitHub  

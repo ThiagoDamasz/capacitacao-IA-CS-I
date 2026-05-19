@@ -1,36 +1,37 @@
 # Capacitação em Inteligência Artificial - CS&I
 
-Este repositório foi criado como parte da atividade principal da aula de **Capacitação em Inteligência Artificial**, com foco nos fundamentos da área e na preparação do ambiente de desenvolvimento.
+Este repositório foi criado como parte das atividades da aula de **Capacitação em Inteligência Artificial**, com foco nos fundamentos da área, preparação do ambiente de desenvolvimento e aplicação prática de algoritmos.
 
-## Objetivo
+## 📌 Organização do Aprendizado
 
-O objetivo deste projeto é compreender os conceitos iniciais de Inteligência Artificial, configurar o ambiente de desenvolvimento e aplicar técnicas básicas de Machine Learning utilizando Python.
+Para melhor organização dos estudos, os projetos foram divididos entre as atividades realizadas presencialmente e os projetos desenvolvidos de forma remota/assíncrona:
 
-## Conteúdo da Aula
+### 🏢 Atividades Presenciais (Neste Repositório)
+Este repositório centraliza os códigos e conceitos práticos desenvolvidos em sala de aula, focando na introdução ao Machine Learning Clássico.
+- **Projeto Principal:** Classificação utilizando o **dataset Iris** e o algoritmo **Árvore de Decisão** (Scikit-learn).
+- **Conteúdo abordado:** Carregamento de dados, divisão treino/teste, treinamento, previsões e avaliação de acurácia.
+
+### 🏠 Atividades Remotas (Links Externos)
+Os projetos avançados e atividades assíncronas foram desenvolvidos em repositórios dedicados. Você pode acessá-los nos links abaixo:
+
+- [ Projeto de análise de fraudes de saúde: Classificação](https://github.com/ThiagoDamasz/projeto-fraude-saude)
+  *Repositório dedicado ao desenvolvimento de projeto para a análise de risco de fraudes na área de saúde. Utilizando um Dataset real do Kaggle*
+
+  - [ Projeto de competição do Kaggle: Classificação](https://github.com/ThiagoDamasz/titanic-competition)
+  *Repositório dedicado ao desenvolvimento de projeto para a previsão de sobreviventes do titanic. Utilizando um Dataset real do Kaggle*
+
+---
+
+## 📖 Conteúdo Geral da Aula
 
 ### 1. Fundamentos de IA e Preparação do Ambiente (8h)
-
-Nesta etapa foram abordados os seguintes tópicos:
-
 - Conceitos essenciais de Inteligência Artificial
 - Introdução ao Machine Learning
 - Configuração do ambiente de desenvolvimento
 - Utilização de ferramentas para ciência de dados
 - Versionamento de código utilizando Git e GitHub
 
-## Atividade Prática
-
-Como atividade prática, foi desenvolvido um exemplo de classificação utilizando o **dataset Iris** e o algoritmo **Árvore de Decisão**, implementado em Python com a biblioteca Scikit-learn.
-
-O projeto inclui:
-
-- Carregamento do dataset
-- Separação entre dados de treino e teste
-- Treinamento do modelo de árvore de decisão
-- Realização de previsões
-- Avaliação da acurácia do modelo
-
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python  
 - Scikit-learn  
@@ -38,6 +39,6 @@ O projeto inclui:
 - Git  
 - GitHub  
 
-## Autor
+## 👤 Autor
 
-Thiago Damas Ferreira Silva
+**Thiago Damas Ferreira Silva**

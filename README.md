@@ -17,7 +17,7 @@ Os projetos avançados e atividades assíncronas foram desenvolvidos em reposit�
 - [ Projeto de análise de fraudes de saúde: Classificação](https://github.com/ThiagoDamasz/projeto-fraude-saude)
   *Repositório dedicado ao desenvolvimento de projeto para a análise de risco de fraudes na área de saúde. Utilizando um Dataset real do Kaggle*
 
-  - [ Projeto de competição do Kaggle: Classificação](https://github.com/ThiagoDamasz/titanic-competition)
+- [ Projeto de competição do Kaggle: Classificação](https://github.com/ThiagoDamasz/titanic-competition)
   *Repositório dedicado ao desenvolvimento de projeto para a previsão de sobreviventes do titanic. Utilizando um Dataset real do Kaggle*
 
 ---
